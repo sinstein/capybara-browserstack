@@ -10,3 +10,4 @@ browser_caps:
   -
     "browser": "chrome"
     "browserstack.local": true
+    "browserstack.localIdentifier": ENV['BROWSERSTACK_LOCAL_IDENTIFIER']
